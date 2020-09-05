@@ -1,4 +1,4 @@
-### English subtitle project for the 1999 greek comedy "Let the women wait"
+### English subtitle project for the 1998 greek comedy "Let the women wait"
 
 This subtitle project was created using Aegisub. To work on it:
 
