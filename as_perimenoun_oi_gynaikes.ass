@@ -15,9 +15,9 @@ Audio File: Ας περιμένουν οι γυναίκες HD (1998)-HQ0H6lOrE5
 Video File: Ας περιμένουν οι γυναίκες HD (1998)-HQ0H6lOrE5E.mkv
 Video AR Value: 1.744444
 Video Zoom Percent: 1.202247
-Scroll Position: 677
-Active Line: 689
-Video Position: 80456
+Scroll Position: 1103
+Active Line: 1105
+Video Position: 123135
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -537,7 +537,7 @@ Dialogue: 0,0:40:25.49,0:40:26.69,Default,,0,0,0,,Yes, in Cassandra.
 Dialogue: 0,0:40:26.69,0:40:30.39,Default,,0,0,0,,Then why did they eat here\N and brought Volvi into the mix?
 Dialogue: 0,0:40:30.39,0:40:31.94,Default,,0,0,0,,This hasn't been clarified.
 Dialogue: 0,0:40:31.94,0:40:33.84,Default,,0,0,0,,You should have asked for an explanation.
-Dialogue: 0,0:40:33.84,0:40:36.11,Default,,0,0,0,,Ask for an explanation?\N But they do the same!
+Dialogue: 0,0:40:33.84,0:40:36.11,Default,,0,0,0,,Ask for an explanation?\N But they are the same!
 Dialogue: 0,0:40:36.11,0:40:37.44,Default,,0,0,0,,PASOK and New Democracy?!
 Dialogue: 0,0:40:37.44,0:40:38.54,Default,,0,0,0,,Two faces of the same coin!
 Dialogue: 0,0:40:38.54,0:40:39.89,Default,,0,0,0,,I feel sorry for you!
@@ -1130,3 +1130,4 @@ Dialogue: 0,1:21:53.12,1:21:54.84,Default,,0,0,0,,We will eat something light.
 Dialogue: 0,1:21:54.84,1:21:56.59,Default,,0,0,0,,We will take a nap.
 Dialogue: 0,1:21:56.59,1:21:59.34,Default,,0,0,0,,And, as soon as the sun sets and it gets cooler...
 Dialogue: 0,1:21:59.34,1:22:01.66,Default,,0,0,0,,...we leave for our families immediately.
+Dialogue: 0,1:22:05.37,1:22:07.32,Default,,0,0,0,,{\b1}This has been a labour of love, dedicated to the memory of the great Stavros Tsiolis.{\b0}\N\N\N\NSubs by ravingraven\N\NSpecial thanks to:\N/r/greececirclejerk\Nnarkalieuths\Nsapounious\NDr. S.C.\N\Nhttps://github.com/ravingraven/as_perimenoun_oi_gynaikes\N\NLove each other
