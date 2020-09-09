@@ -12,5 +12,4 @@ This subtitle project was created using Aegisub. To work on it:
 * Place the resulting .mkv file next to the .ass file
 * Open the .ass file using Aegisub
 
-There are several places where the tranlsation is lacking, marked with
-three hashes "###".
+This has been a labour of love, dedicated to the memory of the great Stavros Tsiolis.
