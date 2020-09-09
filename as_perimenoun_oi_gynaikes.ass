@@ -16,8 +16,8 @@ Video File: Ας περιμένουν οι γυναίκες HD (1998)-HQ0H6lOrE5
 Video AR Value: 1.744444
 Video Zoom Percent: 1.202247
 Scroll Position: 1103
-Active Line: 1105
-Video Position: 123135
+Active Line: 1107
+Video Position: 123601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1130,4 +1130,8 @@ Dialogue: 0,1:21:53.12,1:21:54.84,Default,,0,0,0,,We will eat something light.
 Dialogue: 0,1:21:54.84,1:21:56.59,Default,,0,0,0,,We will take a nap.
 Dialogue: 0,1:21:56.59,1:21:59.34,Default,,0,0,0,,And, as soon as the sun sets and it gets cooler...
 Dialogue: 0,1:21:59.34,1:22:01.66,Default,,0,0,0,,...we leave for our families immediately.
-Dialogue: 0,1:22:05.37,1:22:07.32,Default,,0,0,0,,{\b1}This has been a labour of love, dedicated to the memory of the great Stavros Tsiolis.{\b0}\N\N\N\NSubs by ravingraven\N\NSpecial thanks to:\N/r/greececirclejerk\Nnarkalieuths, sapounious, Dr. S.C, TEL2091\N\Nhttps://github.com/ravingraven/as_perimenoun_oi_gynaikes\N\NLove each other.
+Dialogue: 0,1:22:05.37,1:22:11.15,Default,,0,0,0,,{\b1}This has been a labour of love, dedicated to the memory of the great Stavros Tsiolis.{\b0}
+Dialogue: 0,1:22:11.15,1:22:14.35,Default,,0,0,0,,Subs by ravingraven
+Dialogue: 0,1:22:14.35,1:22:18.72,Default,,0,0,0,,Special thanks to /r/greececirclejerk, narkalieuths, sapounious, Dr. S.C, TEL2091
+Dialogue: 0,1:22:18.72,1:22:21.90,Default,,0,0,0,,https://github.com/ravingraven/as_perimenoun_oi_gynaikes
+Dialogue: 0,1:22:21.90,1:22:24.17,Default,,0,0,0,,Love each other.

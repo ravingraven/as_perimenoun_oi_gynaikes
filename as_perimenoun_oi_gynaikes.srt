@@ -4647,18 +4647,22 @@ And, as soon as the sun sets and it gets cooler...
 ...we leave for our families immediately.
 
 1106
-01:22:05,375 --> 01:22:07,325
+01:22:05,370 --> 01:22:11,150
 <b>This has been a labour of love, dedicated to the memory of the great Stavros Tsiolis.</b>
 
-
-
+1107
+01:22:11,150 --> 01:22:14,350
 Subs by ravingraven
 
-Special thanks to:
-/r/greececirclejerk
-narkalieuths, sapounious, Dr. S.C, TEL2091
+1108
+01:22:14,350 --> 01:22:18,725
+Special thanks to /r/greececirclejerk, narkalieuths, sapounious, Dr. S.C, TEL2091
 
+1109
+01:22:18,720 --> 01:22:21,900
 https://github.com/ravingraven/as_perimenoun_oi_gynaikes
 
+1110
+01:22:21,900 --> 01:22:24,175
 Love each other.
 
