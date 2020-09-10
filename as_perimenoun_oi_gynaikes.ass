@@ -15,9 +15,9 @@ Audio File: Ας περιμένουν οι γυναίκες HD (1998)-HQ0H6lOrE5
 Video File: Ας περιμένουν οι γυναίκες HD (1998)-HQ0H6lOrE5E.mkv
 Video AR Value: 1.744444
 Video Zoom Percent: 1.202247
-Scroll Position: 776
-Active Line: 792
-Video Position: 92702
+Scroll Position: 177
+Active Line: 178
+Video Position: 18064
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,7 +62,7 @@ Dialogue: 0,0:03:23.92,0:03:26.88,Default,,0,0,0,,- Indeed, in Papaditsa the kok
 Dialogue: 0,0:03:26.90,0:03:27.60,Default,,0,0,0,,- Out of this world?
 Dialogue: 0,0:03:27.60,0:03:30.22,Default,,0,0,0,,You know what a professional from Kalamata told me?
 Dialogue: 0,0:03:30.22,0:03:31.26,Default,,0,0,0,,I ask him...
-Dialogue: 0,0:03:31.26,0:03:34.40,Default,,0,0,0,,..."How come Mr. Marmatzeas is the kokoretsi in Padaditsa so delicious?"...
+Dialogue: 0,0:03:31.26,0:03:34.40,Default,,0,0,0,,..."How come Mr. Mparmpatzeas is the kokoretsi in Padaditsa so delicious?"...
 Dialogue: 0,0:03:34.40,0:03:36.00,Default,,0,0,0,,...And he replies tete a tete...
 Dialogue: 0,0:03:36.00,0:03:38.24,Default,,0,0,0,,..."Because in Papaditsa they don't wash the entrails".
 Dialogue: 0,0:03:38.24,0:03:39.32,Default,,0,0,0,,- That means we are eating...
@@ -203,10 +203,10 @@ Dialogue: 0,0:11:54.08,0:11:55.66,Default,,0,0,0,,...and you are eating in Pring
 Dialogue: 0,0:11:55.66,0:11:57.82,Default,,0,0,0,,...and suddenly you see Fotoula and Dionisakis...
 Dialogue: 0,0:11:57.82,0:11:59.36,Default,,0,0,0,,...and they are begging at the tables...
 Dialogue: 0,0:11:59.36,0:12:02.54,Default,,0,0,0,,...What do you do at that moment? \N- I throw a rope and hang myself!
-Dialogue: 0,0:12:02.54,0:12:07.38,Default,,0,0,0,,This girl must come from around Phaliro or Glyfada\Nand you take her with on Sunday \Non a match against Olympiacos...
+Dialogue: 0,0:12:02.54,0:12:07.38,Default,,0,0,0,,This girl must come from around Faliro or Glyfada\Nand you take her on Sunday \Non a match against Olympiacos...
 Dialogue: 0,0:12:07.38,0:12:11.24,Default,,0,0,0,,...and Ivić dives in the penalty area, \Nand the Anchovies shout for a penalty shot...
 Dialogue: 0,0:12:11.24,0:12:13.06,Default,,0,0,0,,...and she is shouting for a penalty too.
-Dialogue: 0,0:12:13.06,0:12:16.24,Default,,0,0,0,,What will you do in front of the PAOK fans, lifelong fan? \N- I kill her!
+Dialogue: 0,0:12:13.06,0:12:16.24,Default,,0,0,0,,What will you do in front of the PAOK fans, a lifelong fan yourself? \N- I kill her!
 Dialogue: 0,0:12:16.24,0:12:18.08,Default,,0,0,0,,I know you, that is why I theorize.
 Dialogue: 0,0:12:18.08,0:12:20.08,Default,,0,0,0,,And, to come back to economical matters...
 Dialogue: 0,0:12:20.08,0:12:22.30,Default,,0,0,0,,...what will you do when the car payments are due...
@@ -226,7 +226,7 @@ Dialogue: 0,0:13:30.84,0:13:32.56,Default,,0,0,0,,Panos, what in God's name did 
 Dialogue: 0,0:14:10.66,0:14:13.44,Default,,0,0,0,,Miss, your name?
 Dialogue: 0,0:14:13.44,0:14:15.86,Default,,0,0,0,,- Clytemnestra.\N- Ms. Clytemnestra, this same thing...
 Dialogue: 0,0:14:15.86,0:14:19.34,Default,,0,0,0,,...has happened to him two more times in the past.\N- He trows himself in the lake?
-Dialogue: 0,0:14:19.34,0:14:22.59,Default,,0,0,0,,No, in the sea. Once in the Messiniakos and \Nonce in the Pagasitikos bays.
+Dialogue: 0,0:14:19.34,0:14:22.59,Default,,0,0,0,,No, in the sea. Once in the Messiniakos and \Nonce in the Pagasitikos gulfs.
 Dialogue: 0,0:14:22.59,0:14:25.54,Default,,0,0,0,,- For the same reason?\N- For... a similar reason.
 Dialogue: 0,0:14:25.54,0:14:29.69,Default,,0,0,0,,Let him drink a bitter coffee and take a warm shower and \Nthen I'll take his blood-pressure, OK?
 Dialogue: 0,0:14:29.69,0:14:30.86,Default,,0,0,0,,Thank you a lot.
@@ -277,12 +277,12 @@ Dialogue: 0,0:17:49.90,0:17:53.78,Default,,0,0,0,,{\i1}I regret it all. I regret
 Dialogue: 0,0:17:53.78,0:17:57.66,Default,,0,0,0,,{\i1}Now, I pay for my mistakes.{\i0}
 Dialogue: 0,0:17:57.66,0:18:00.30,Default,,0,0,0,,{\i1}I regret it all. I regret it all.{\i0} \NDon't pick up!
 Dialogue: 0,0:18:04.42,0:18:11.18,Default,,0,0,0,,Antonis? Panos had a sudden malaise. He was feeling down and \Nhis blood sugar got low. We will be in Kavala...
-Dialogue: 0,0:18:11.20,0:18:14.82,Default,,0,0,0,,...in an hour, with the ferry we will be on Thasos at around three or four.
+Dialogue: 0,0:18:11.20,0:18:14.82,Default,,0,0,0,,...in an hour, with the ferry we will be at Thasos at around three or four.
 Dialogue: 0,0:18:14.82,0:18:18.68,Default,,0,0,0,,What the hell are you telling him? I could be sitting here with a blood-pressure in the low twenties.
 Dialogue: 0,0:18:18.68,0:18:23.88,Default,,0,0,0,,- I'm not going anywhere without a doctor taking a look at me first.\N - We can't leave. Yes, there are two doctoresses here.
 Dialogue: 0,0:18:23.88,0:18:27.88,Default,,0,0,0,,- What you are saying Antonis? How can you even think of such a thing?!\N- What this Arcadian shepherd...
 Dialogue: 0,0:18:27.88,0:18:30.64,Default,,0,0,0,,...the Peloponessian dirtbag saying? Is he looking in a mirror?
-Dialogue: 0,0:18:30.64,0:18:34.94,Default,,0,0,0,,Explain what Antonis? Someone got lost, we tried to help he and he says...
+Dialogue: 0,0:18:30.64,0:18:34.94,Default,,0,0,0,,Explain what Antonis? Someone got lost, we tried to help him and he says...
 Dialogue: 0,0:18:34.94,0:18:37.40,Default,,0,0,0,,..."it was here where the historical congress of Volvi took place"...
 Dialogue: 0,0:18:37.40,0:18:40.76,Default,,0,0,0,,...and I tell him "I'm not sure". And then Panos got \Ninvolved and they started fighting.
 Dialogue: 0,0:18:40.76,0:18:43.62,Default,,0,0,0,,Yes Antonis! Because of the congress.
@@ -370,7 +370,7 @@ Dialogue: 0,0:24:33.20,0:24:38.54,Default,,0,0,0,,{\i1}Again, you'll leave and r
 Dialogue: 0,0:24:38.54,0:24:40.85,Default,,0,0,0,,Antonis, yes Antonis...
 Dialogue: 0,0:24:40.85,0:24:42.85,Default,,0,0,0,,...I called to say the following.
 Dialogue: 0,0:24:42.85,0:24:46.40,Default,,0,0,0,,Because, the situation is grave and I can't manage by myself.
-Dialogue: 0,0:24:46.40,0:24:49.87,Default,,0,0,0,,We argued because about the Congress, how many times must I tell you?
+Dialogue: 0,0:24:46.40,0:24:49.87,Default,,0,0,0,,We argued about the Congress, how many times must I tell you?
 Dialogue: 0,0:24:49.87,0:24:52.36,Default,,0,0,0,,And we are arguing about the Congress...
 Dialogue: 0,0:24:52.36,0:24:55.65,Default,,0,0,0,,...and he has a girl with him. And Panos starts speaking with her...
 Dialogue: 0,0:24:55.65,0:24:58.05,Default,,0,0,0,,...and the guy gets mad...
@@ -445,7 +445,7 @@ Dialogue: 0,0:30:49.82,0:30:51.82,Default,,0,0,0,,{\i1}Come and find me...{\i0}
 Dialogue: 0,0:30:51.82,0:30:55.56,Default,,0,0,0,,When you got under the van and lifted the bell I thought...
 Dialogue: 0,0:30:55.56,0:30:59.20,Default,,0,0,0,,..."This man is taking care of three children\N a wife, a father, a sick sister"...
 Dialogue: 0,0:30:59.20,0:31:01.78,Default,,0,0,0,,..."me, his friends, PAOK..."
-Dialogue: 0,0:31:01.78,0:31:04.49,Default,,0,0,0,,"...and how does life repai him? With breadcrumbs."
+Dialogue: 0,0:31:01.78,0:31:04.49,Default,,0,0,0,,"...and how does life repay him? With breadcrumbs."
 Dialogue: 0,0:31:04.49,0:31:07.29,Default,,0,0,0,,...that's what I said.\N- Leave me alone.
 Dialogue: 0,0:31:07.29,0:31:10.45,Default,,0,0,0,,A day will come when life will be different.
 Dialogue: 0,0:31:10.45,0:31:12.94,Default,,0,0,0,,We won't exist until then but that's all right.
@@ -520,7 +520,7 @@ Dialogue: 0,0:39:37.34,0:39:38.96,Default,,0,0,0,,And I tell him "I'm not really
 Dialogue: 0,0:39:38.96,0:39:42.16,Default,,0,0,0,,This guy is clueless about historical matters.\N This is not where the summit was held.
 Dialogue: 0,0:39:42.16,0:39:43.69,Default,,0,0,0,,Says who?! You?
 Dialogue: 0,0:39:43.69,0:39:46.81,Default,,0,0,0,,Panos, in the Party they ask Panos\N about historical matters.
-Dialogue: 0,0:39:46.81,0:39:51.06,Default,,0,0,0,,Remember what Castanides said?\N Antonis is PAOK's Paparigopoulos.
+Dialogue: 0,0:39:46.81,0:39:51.06,Default,,0,0,0,,Remember what Castanides said?\N Antonis is PASOK's Paparigopoulos.
 Dialogue: 0,0:39:51.06,0:39:53.49,Default,,0,0,0,,In 1979 in Cassandra, Chalkidiki...
 Dialogue: 0,0:39:53.49,0:39:56.11,Default,,0,0,0,,...the second New Democracy summit was held.
 Dialogue: 0,0:39:56.11,0:39:58.11,Default,,0,0,0,,Like we give a fuck.
@@ -858,7 +858,7 @@ Dialogue: 0,1:03:44.16,1:03:46.16,Default,,0,0,0,,And I count the sheets and ask
 Dialogue: 0,1:03:46.16,1:03:48.69,Default,,0,0,0,,"...me, plus my wife, my father and my sister is four..."
 Dialogue: 0,1:03:48.69,1:03:52.06,Default,,0,0,0,,"...plus Michails, his wife and his mother, that's seven..."
 Dialogue: 0,1:03:52.06,1:03:53.01,Default,,0,0,0,,"...Why eight sheets?"
-Dialogue: 0,1:03:53.01,1:03:55.86,Default,,0,0,0,,And he says "What about the mother of your in-law, Antonis."
+Dialogue: 0,1:03:53.01,1:03:55.86,Default,,0,0,0,,And he says "What about the mother of your in-law, Antonis?"
 Dialogue: 0,1:04:05.79,1:04:09.36,Default,,0,0,0,,So, my mother voted for New Democracy?
 Dialogue: 0,1:04:09.36,1:04:10.89,Default,,0,0,0,,What were my options, Antonis?
 Dialogue: 0,1:04:10.89,1:04:13.46,Default,,0,0,0,,I took her to the station, gave her the election sheet...
@@ -897,7 +897,7 @@ Dialogue: 0,1:06:58.44,1:07:00.86,Default,,0,0,0,,Michalis!
 Dialogue: 0,1:07:00.86,1:07:05.76,Default,,0,0,0,,The children of the future will grow up in a new reality...
 Dialogue: 0,1:07:05.76,1:07:07.94,Default,,0,0,0,,...a reality, which we will propably never know.
 Dialogue: 0,1:07:07.94,1:07:10.19,Default,,0,0,0,,Michalis!
-Dialogue: 0,1:07:10.19,1:07:12.19,Default,,0,0,0,,I'm busy Panos.
+Dialogue: 0,1:07:10.19,1:07:12.19,Default,,0,0,0,,I'm busy, Panos.
 Dialogue: 0,1:07:13.66,1:07:18.21,Default,,0,0,0,,In this critical moment, PASOK is the only party that can stand beside the people...
 Dialogue: 0,1:07:18.21,1:07:21.26,Default,,0,0,0,,...and lead them to the threshold of this new world...
 Dialogue: 0,1:07:21.26,1:07:24.46,Default,,0,0,0,,...without having to sink them into despair and marginalize them.
@@ -931,7 +931,7 @@ Dialogue: 0,1:08:33.44,1:08:35.99,Default,,0,0,0,,"The People now have the power
 Dialogue: 0,1:08:35.99,1:08:39.71,Default,,0,0,0,,Mr. Antonis, we vote for New Democracy...
 Dialogue: 0,1:08:39.71,1:08:42.46,Default,,0,0,0,,...but, now that we have heard the story of your dad...
 Dialogue: 0,1:08:42.46,1:08:44.89,Default,,0,0,0,,...we will vote for PASOK.
-Dialogue: 0,1:08:44.89,1:08:46.89,Default,,0,0,0,,Right Archontoula?
+Dialogue: 0,1:08:44.89,1:08:46.89,Default,,0,0,0,,Archontoula, isn't that right?
 Dialogue: 0,1:08:50.40,1:08:53.32,Default,,0,0,0,,When I tell you he was not feeling well, you better believe me.
 Dialogue: 0,1:08:53.32,1:08:55.91,Default,,0,0,0,,Yes, similar to the one Panos had but a bit less serious.
 Dialogue: 0,1:08:55.91,1:08:57.91,Default,,0,0,0,,Now he is giving a speech.
@@ -1050,7 +1050,7 @@ Dialogue: 0,1:15:47.41,1:15:49.86,Default,,0,0,0,,- She was crying.\NCrying?
 Dialogue: 0,1:15:49.86,1:15:53.04,Default,,0,0,0,,Yes. She was crying with sadness.
 Dialogue: 0,1:15:53.04,1:15:55.29,Default,,0,0,0,,Then she went to the living room.
 Dialogue: 0,1:15:55.29,1:15:57.29,Default,,0,0,0,,I followed her.
-Dialogue: 0,1:15:57.29,1:15:59.94,Default,,0,0,0,,She took our kid's picture from cupboard\Nand was looking at it.
+Dialogue: 0,1:15:57.29,1:15:59.94,Default,,0,0,0,,She took our kid's picture from the drawer\Nand was looking at it.
 Dialogue: 0,1:15:59.94,1:16:01.94,Default,,0,0,0,,- Which picture?\NFrom our kid that drowned.
 Dialogue: 0,1:16:01.94,1:16:05.21,Default,,0,0,0,,That was fifteen years ago, Eleni was a girl back then.
 Dialogue: 0,1:16:05.21,1:16:07.84,Default,,0,0,0,,Yes. And she said...
@@ -1065,7 +1065,7 @@ Dialogue: 0,1:16:23.06,1:16:24.56,Default,,0,0,0,,...talking with your wife on t
 Dialogue: 0,1:16:24.56,1:16:27.54,Default,,0,0,0,,My wife didn't do anything out of the ordinary this Christmas.
 Dialogue: 0,1:16:27.54,1:16:29.79,Default,,0,0,0,,And she calls me two days ago and she was acting all nice...
 Dialogue: 0,1:16:29.79,1:16:31.26,Default,,0,0,0,,"Panos, when are you coming?"
-Dialogue: 0,1:16:31.26,1:16:33.01,Default,,0,0,0,,We've been alone for a month.
+Dialogue: 0,1:16:31.26,1:16:33.01,Default,,0,0,0,,"We've been alone for a month."
 Dialogue: 0,1:16:33.01,1:16:35.51,Default,,0,0,0,,Like she had a clue.
 Dialogue: 0,1:16:35.51,1:16:36.94,Default,,0,0,0,,Doesn't matter.
 Dialogue: 0,1:16:36.94,1:16:38.94,Default,,0,0,0,,Are they having a good time now?
