@@ -6,7 +6,7 @@ This subtitle project was created using Aegisub. To work on it:
 * Download the video from youtube using the youtube-dl tool:
 
     ```
-    youtube-dl https://www.youtube.com/watch?v=HQ0H6lOrE5E
+    youtube-dl [https://www.youtube.com/watch?v=HQ0H6lOrE5E](https://www.youtube.com/watch?v=7-ev9ky0qFM)
     ```
 
 * Place the resulting .mkv file next to the .ass file
